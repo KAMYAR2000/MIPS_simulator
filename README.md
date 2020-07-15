@@ -1,1 +1,1 @@
-# MIPS_simulator
+# FUM_MIPS
