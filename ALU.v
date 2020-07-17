@@ -13,4 +13,4 @@ module ALU(input [15:0] A, B, input [3:0] controlSignal, output reg[15:0] out);
   end
 endmodule
 
-////////////////////////&
+//////////////////////////&
